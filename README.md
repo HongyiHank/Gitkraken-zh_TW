@@ -1,5 +1,5 @@
 # Gitkraken-zh_TW
-Gitkraken的繁體中文化補丁
+本人已改回使用Sourcetree，故停止更新
 ## 說明
 此補丁並非本人製作，本人僅是將其作繁體中文化(原補丁為簡體中文)<br>
 補丁來源有兩處:[第一個-yk47g](https://github.com/yk47g/gitkraken-chinese) [第二個-ZhanPhty](https://github.com/ZhanPhty/GitKraken-zh-CN)<br>
@@ -20,3 +20,4 @@ rogeraabbccdd有另外一款補丁也是將此軟體改為繁體中文，不過�
 2023.12.6 - 對應**9.9.2**版本<br>
 2024.8.3 - 對應**10.1.1**版本<br>
 2024.9.28 - 對應**10.3.0**版本
+**2024.11.29 - 停止更新**
